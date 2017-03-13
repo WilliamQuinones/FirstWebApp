@@ -1,0 +1,14 @@
+2016-04-09 22:25:00.273	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 264 Starting msftefd.exe
+2016-04-09 22:25:00.426	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Binn\fdhost.exe
+2016-04-09 22:25:00.626	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv MSSQL13.MSSQLSERVERIb6a5021ffc913f4ecaf9953fe41dc714b3e3ahdi
+2016-04-09 22:25:00.713	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv MSSQL13.MSSQLSERVER
+2016-04-09 22:25:00.825	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv MSSQL13.MSSQLSERVER
+2016-04-09 22:25:00.914	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv 8
+2016-04-09 22:25:00.959	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv 
+2016-04-09 22:25:01.024	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv 16384
+2016-04-09 22:25:01.055	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv M
+2016-04-09 22:25:01.114	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv 0
+2016-04-09 22:25:01.143	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv 
+2016-04-09 22:25:01.226	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv 
+2016-04-09 22:25:01.276	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 307 argc 12, argv 
+2016-04-09 22:25:01.440	 File [d:\b\s3\sources\sql\ntdbms\msql\fulltext\src\search\search\fdexe\fd.cxx] Line 374 msFteFD has started
